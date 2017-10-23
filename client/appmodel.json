@@ -3,14 +3,22 @@
     "type": "object",
     "comment": "IssueModel",
     "properties": {
-      "Name": {
-        "type": "string"
-      },
-      "Id": {
-        "type": "string"
-      },
-      "Summary": {
-        "type": "string"
+      "List": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "Id": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Summary": {
+              "type": "string"
+            }
+          }
+        }
       }
     }
   },
