@@ -1,27 +1,4 @@
 {
-  "1": {
-    "type": "object",
-    "comment": "IssueModel",
-    "properties": {
-      "List": {
-        "type": "array",
-        "items": {
-          "type": "object",
-          "properties": {
-            "Id": {
-              "type": "string"
-            },
-            "Name": {
-              "type": "string"
-            },
-            "Summary": {
-              "type": "string"
-            }
-          }
-        }
-      }
-    }
-  },
   "loginconfident": {
     "type": "object",
     "comment": "Login",
@@ -85,6 +62,32 @@
               "type": "action"
             },
             "icon": {
+              "type": "string"
+            }
+          }
+        },
+        "update": {
+          "type": "none"
+        }
+      }
+    }
+  },
+  "issue": {
+    "type": "object",
+    "comment": "IssueModel",
+    "properties": {
+      "List": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "Id": {
+              "type": "string"
+            },
+            "Name": {
+              "type": "string"
+            },
+            "Summary": {
               "type": "string"
             }
           }
