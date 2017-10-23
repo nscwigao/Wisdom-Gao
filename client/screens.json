@@ -1,11 +1,11 @@
 {
   "id": "app",
   "name": "wisdomgao",
-  "startScreen": "app.blank",
+  "startScreen": "app.issuedetail",
   "screens": [
     {
-      "id": "blank",
-      "name": "BLANK",
+      "id": "issuedetail",
+      "name": "Issue Detail",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.blank"
     },

@@ -6,12 +6,12 @@ angular.module('app').config(function ($stateProvider) {
         templateProvider: function (app) {
             return app.templateProvider('app');
         }
-    }).state('app.blank', {
+    }).state('app.issuedetail', {
         views: {
             app: {
-                controller: 'app_blank',
+                controller: 'app_issuedetail',
                 templateProvider: function (app) {
-                    return app.templateProvider('app.blank');
+                    return app.templateProvider('app.issuedetail');
                 }
             }
         }
