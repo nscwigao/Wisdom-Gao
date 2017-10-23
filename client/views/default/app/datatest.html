@@ -10,11 +10,12 @@
     </ion-nav-bar>
     <ion-content class=" nocolor-bg" data-comp-id="ionic-content.1">
         <div class="card" data-comp-display="card.1" data-comp-id="div.1">
-            <div class="item-divider card nocolor-bg" data-comp-id="div.2"
-                ng-repeat="item in data.List">
-                <div class="row" data-comp-id="row.1">
+            <div class="item-divider nocolor-bg item" data-comp-id="div.2"
+                ng-repeat="item in data.List" style="">
+                <div class="row" data-comp-id="row.1"
+                    style="border-bottom: 1px solid rgba(74, 129, 148, 0.1);">
                     <div class="col" data-comp-id="column.1"
-                        style="border-right: rgb(238, 238, 224);">
+                        style="border-right: 1px solid rgba(74, 129, 148, 0.298);">
                         <div data-comp-id="text.1" ng-bind="item.Id">Some text</div>
                     </div>
                     <div class="col" data-comp-id="column.2">
@@ -22,7 +23,7 @@
                     </div>
                 </div>
                 <div class="row" data-comp-id="row.2">
-                    <div class="col" data-comp-id="column.3">
+                    <div class="col" data-comp-id="column.3" style="">
                         <div data-comp-id="text.3" ng-bind="item.Summary">Some text</div>
                     </div>
                 </div>
