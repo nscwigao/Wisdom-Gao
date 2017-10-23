@@ -1,4 +1,19 @@
 {
+  "1": {
+    "type": "object",
+    "comment": "IssueModel",
+    "properties": {
+      "Name": {
+        "type": "string"
+      },
+      "Id": {
+        "type": "string"
+      },
+      "Summary": {
+        "type": "string"
+      }
+    }
+  },
   "loginconfident": {
     "type": "object",
     "comment": "Login",
