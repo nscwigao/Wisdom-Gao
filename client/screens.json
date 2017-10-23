@@ -29,13 +29,6 @@
       "model": "loginconfident"
     },
     {
-      "id": "detailsviewcool",
-      "name": "DetailsView-Cool",
-      "sourceScreenId": "app.detailsview.detailsviewcool",
-      "sourceAppId": "universaltemplates",
-      "model": "detailsviewcool"
-    },
-    {
       "id": "listviewcool",
       "name": "ListView-Cool",
       "sourceScreenId": "app.listview.listviewcool",
