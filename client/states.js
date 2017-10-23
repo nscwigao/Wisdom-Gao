@@ -51,5 +51,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.datatest', {
+        views: {
+            app: {
+                controller: 'app_datatest',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.datatest');
+                }
+            }
+        }
     });
 });
