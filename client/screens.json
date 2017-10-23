@@ -27,6 +27,13 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
+    },
+    {
+      "id": "detailsviewcool",
+      "name": "DetailsView-Cool",
+      "sourceScreenId": "app.detailsview.detailsviewcool",
+      "sourceAppId": "universaltemplates",
+      "model": "detailsviewcool"
     }
   ],
   "sourceAppId": "_blank",
