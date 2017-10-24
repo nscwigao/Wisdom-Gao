@@ -3,8 +3,9 @@
   "properties": {
     "IsMyview": {
       "type": "identifier",
-      "selector": "tbody",
-      "control": "property.innerText"
+      "selector": ".subtle",
+      "control": "property.innerText",
+      "selectContains": "Assigned to Me"
     },
     "viewissuelink": {
       "type": "action",
