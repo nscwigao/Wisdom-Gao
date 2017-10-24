@@ -31,7 +31,7 @@
               "type": "none"
             },
             "selector": "td",
-            "selectIndex": 8,
+            "selectIndex": 10,
             "control": "property.innerText"
           }
         }
