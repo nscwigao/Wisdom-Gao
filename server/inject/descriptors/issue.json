@@ -1,0 +1,37 @@
+{
+  "type": "object",
+  "comment": "IssueModel",
+  "properties": {
+    "List": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "Id": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          },
+          "Name": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          },
+          "Summary": {
+            "type": "string",
+            "update": {
+              "type": "none"
+            }
+          }
+        }
+      },
+      "update": {
+        "type": "none"
+      },
+      "selectorAll": "#buglist tbody tr[bgcolor]"
+    }
+  },
+  "connect": []
+}
