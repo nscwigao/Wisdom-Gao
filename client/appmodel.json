@@ -106,5 +106,13 @@
         }
       }
     }
+  },
+  "myview": {
+    "type": "object",
+    "properties": {
+      "viewissuelink": {
+        "type": "action"
+      }
+    }
   }
 }

@@ -13,5 +13,14 @@
       "control": "action.link"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "IsMyview"
+      ],
+      "screens": [
+        "datatest"
+      ]
+    }
+  ]
 }
