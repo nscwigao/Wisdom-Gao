@@ -22,7 +22,8 @@
               "type": "none"
             },
             "selectIndex": 6,
-            "selector": "td"
+            "selector": "td",
+            "control": "property.innerText"
           },
           "Summary": {
             "type": "string",
