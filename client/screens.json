@@ -40,7 +40,7 @@
       "name": "DataTest",
       "sourceScreenId": "app.blank",
       "sourceAppId": "_blank",
-      "model": "myview"
+      "model": "issue"
     }
   ],
   "sourceAppId": "_blank",
