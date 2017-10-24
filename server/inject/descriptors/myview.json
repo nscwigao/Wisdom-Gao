@@ -4,7 +4,8 @@
     "IsMyview": {
       "type": "identifier",
       "selector": ".floatleft",
-      "control": "property.innerText"
+      "control": "property.innerText",
+      "selectContains": "Viewing Issues"
     },
     "viewissuelink": {
       "type": "action",
