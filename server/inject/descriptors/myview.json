@@ -18,9 +18,7 @@
       "match": [
         "IsMyview"
       ],
-      "screens": [
-        "datatest"
-      ]
+      "action": "viewissuelink"
     }
   ]
 }
