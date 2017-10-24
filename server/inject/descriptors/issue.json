@@ -21,7 +21,7 @@
             "update": {
               "type": "none"
             },
-            "selectIndex": 5,
+            "selectIndex": 6,
             "selector": "td"
           },
           "Summary": {
@@ -30,7 +30,8 @@
               "type": "none"
             },
             "selectIndex": 10,
-            "selector": "td"
+            "selector": "td",
+            "control": "property.innerText"
           }
         }
       },
