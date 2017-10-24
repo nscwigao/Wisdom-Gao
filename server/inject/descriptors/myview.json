@@ -8,8 +8,8 @@
     },
     "viewissuelink": {
       "type": "action",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": "a[href*='view_all_bug_page.php']",
+      "control": "action.link"
     }
   },
   "connect": []
