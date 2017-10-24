@@ -28,7 +28,7 @@
               "type": "none"
             },
             "selector": "td",
-            "selectIndex": 10,
+            "selectIndex": 8,
             "control": "property.innerText"
           }
         }
