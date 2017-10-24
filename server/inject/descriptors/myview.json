@@ -3,7 +3,7 @@
   "properties": {
     "IsMyview": {
       "type": "identifier",
-      "selector": "body",
+      "selector": ".floatleft",
       "control": "property.innerText"
     },
     "viewissuelink": {
