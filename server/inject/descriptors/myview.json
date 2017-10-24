@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "IsMyview": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "property.innerText"
+    },
+    "viewissuelink": {
+      "type": "action",
+      "selector": "body",
+      "control": "property.innerText"
+    }
+  },
+  "connect": []
+}
