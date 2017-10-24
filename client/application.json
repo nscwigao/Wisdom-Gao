@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "ac83bf5f",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "nscajliu"
+  "creatorId": "nscajliu",
+  "id": "wisdomgao_2",
+  "previewImageURL": "/previews/ac83bf5f-wisdomgao_2/app/issuedetail.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/nscwigao/Wisdom-Gao",
+  "creatorName": "Ajax Liu",
+  "sdks": []
 }

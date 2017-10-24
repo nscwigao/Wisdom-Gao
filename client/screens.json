@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "wisdomgao",
-  "startScreen": "app.issuedetail",
+  "startScreen": "app.loginconfident",
   "screens": [
     {
       "id": "issuedetail",
