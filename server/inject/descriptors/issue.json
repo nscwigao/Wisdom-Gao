@@ -11,19 +11,25 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 4
           },
           "Name": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selectIndex": 5,
+            "selector": "td"
           },
           "Summary": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selectIndex": 10,
+            "selector": "td"
           }
         }
       },
