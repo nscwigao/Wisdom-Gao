@@ -1,1 +1,22 @@
-{}
+{
+  "category": {
+    "options": [
+      {
+        "label": "High",
+        "value": "1"
+      },
+      {
+        "label": "Middle",
+        "value": "2"
+      },
+      {
+        "label": "Low",
+        "value": "3"
+      }
+    ],
+    "selected": {
+      "label": "High",
+      "value": "1"
+    }
+  }
+}
