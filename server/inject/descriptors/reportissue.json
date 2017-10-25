@@ -21,6 +21,11 @@
       "type": "identifier",
       "selector": ".button[value='Submit Report']",
       "control": "exists"
+    },
+    "SumbitReport": {
+      "type": "action",
+      "selector": ".button[value='Submit Report']",
+      "control": "action.button"
     }
   },
   "connect": [
