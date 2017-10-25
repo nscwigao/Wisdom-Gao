@@ -49,8 +49,9 @@
     },
     "reportissuelink": {
       "type": "action",
-      "selector": ".button[value='Submit Report']",
-      "control": "action.link"
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
