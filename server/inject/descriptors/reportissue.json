@@ -14,7 +14,7 @@
     },
     "attachment": {
       "type": "string",
-      "selector": "[name=\"summary\"]",
+      "selector": "[name=\"steps_to_reproduce\"]",
       "control": "text"
     }
   },
