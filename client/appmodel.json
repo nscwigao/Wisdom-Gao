@@ -104,6 +104,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "reportissuelink": {
+        "type": "action"
       }
     }
   },
