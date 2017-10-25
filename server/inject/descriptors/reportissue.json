@@ -18,12 +18,5 @@
       "control": "text"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "screens": [
-        "reportissue"
-      ]
-    }
-  ]
+  "connect": []
 }
