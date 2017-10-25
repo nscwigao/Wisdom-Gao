@@ -49,7 +49,7 @@
     },
     "reportissuelink": {
       "type": "action",
-      "selector": "#text",
+      "selector": "a",
       "control": "property.innerText",
       "selectContains": "Enter Report Details"
     }
