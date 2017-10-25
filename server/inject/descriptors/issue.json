@@ -50,7 +50,7 @@
     "reportissuelink": {
       "type": "action",
       "selector": "a",
-      "control": "property.innerText",
+      "control": "action.link",
       "selectContains": "Report Issue"
     }
   },
