@@ -51,7 +51,7 @@
       "type": "action",
       "selector": "a",
       "control": "property.innerText",
-      "selectContains": "Enter Report Details"
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
