@@ -28,7 +28,9 @@
       "control": "action.button"
     },
     "summary": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name=\"summary\"]",
+      "control": "text"
     }
   },
   "connect": [
