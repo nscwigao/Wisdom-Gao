@@ -19,9 +19,8 @@
     },
     "IsReportissue": {
       "type": "identifier",
-      "selector": "a",
-      "control": "exists",
-      "selectContains": "Report Issue"
+      "selector": ".button[value='Submit Report']",
+      "control": "exists"
     }
   },
   "connect": [
