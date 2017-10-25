@@ -121,6 +121,9 @@
     "properties": {
       "category": {
         "type": "select"
+      },
+      "description": {
+        "type": "string"
       }
     }
   }
