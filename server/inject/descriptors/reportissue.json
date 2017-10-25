@@ -16,6 +16,11 @@
       "type": "string",
       "selector": "[name=\"steps_to_reproduce\"]",
       "control": "text"
+    },
+    "IsReportissue": {
+      "type": "identifier",
+      "selector": "[name=\"password\"]",
+      "control": "text"
     }
   },
   "connect": []
