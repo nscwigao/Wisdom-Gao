@@ -124,6 +124,9 @@
       },
       "description": {
         "type": "string"
+      },
+      "attachment": {
+        "type": "string"
       }
     }
   }
