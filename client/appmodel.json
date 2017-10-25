@@ -133,6 +133,9 @@
       },
       "summary": {
         "type": "string"
+      },
+      "SumbitReport": {
+        "type": "action"
       }
     }
   }

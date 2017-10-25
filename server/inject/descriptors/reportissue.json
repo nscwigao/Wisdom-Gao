@@ -26,6 +26,9 @@
       "type": "action",
       "selector": ".button[value='Submit Report']",
       "control": "action.button"
+    },
+    "summary": {
+      "type": "string"
     }
   },
   "connect": [
