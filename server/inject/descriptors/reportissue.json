@@ -31,6 +31,12 @@
       "type": "string",
       "selector": "[name=\"summary\"]",
       "control": "text"
+    },
+    "cancelReportIssue": {
+      "type": "action",
+      "selector": ".subtle",
+      "selectContains": "Assigned to Me",
+      "control": "action.link"
     }
   },
   "connect": [
