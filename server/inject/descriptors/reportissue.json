@@ -14,8 +14,16 @@
     },
     "attachment": {
       "type": "string",
-      "selector": "[name='ufile[]']"
+      "selector": "[name='ufile[]']",
+      "control": "text"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ]
 }
