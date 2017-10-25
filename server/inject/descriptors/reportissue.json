@@ -14,7 +14,7 @@
     },
     "attachment": {
       "type": "string",
-      "selector": "[name='ufile[]']",
+      "selector": "[name=\"summary\"]",
       "control": "text"
     }
   },
