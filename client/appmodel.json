@@ -130,6 +130,9 @@
       },
       "attachment": {
         "type": "string"
+      },
+      "summary": {
+        "type": "string"
       }
     }
   }
