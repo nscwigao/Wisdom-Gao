@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "wisdomgao",
-  "startScreen": "app.login",
+  "startScreen": "app.loginconfident",
   "screens": [
     {
       "id": "issuedetail",
@@ -22,8 +22,8 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "login",
-      "name": "Login",
+      "id": "loginconfident",
+      "name": "Loginconfident",
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "loginconfident"
