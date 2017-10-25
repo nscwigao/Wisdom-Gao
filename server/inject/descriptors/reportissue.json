@@ -24,5 +24,14 @@
       "selectContains": "Report Issue"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "IsReportissue"
+      ],
+      "screens": [
+        "reportissue"
+      ]
+    }
+  ]
 }
