@@ -32,5 +32,21 @@
                 </label>
             </div>
         </div>
+        <div class="row" data-comp-id="row.4">
+            <div class="col" data-comp-id="column.4">
+                <label class="item" data-comp-id="takePhoto.1"
+                    ng-class="{'item-input item-button-right': style === 'control'}"
+                    take-photo="control">
+                    <span class="input-label" ng-if="style === 'control'">Photo</span>
+                    <button class="button button-icon" ng-if="style === 'control'">
+                        <i class="icon positive-icon ion-camera"></i>
+                    </button>
+                    <input disabled="" ng-if="style === 'control'" type="text">
+                    <button class="button button-block button-positive nomargin"
+                        ng-if="style === 'button'">Take Photo</button>
+                    <textarea class="not-visible"></textarea>
+                </label>
+            </div>
+        </div>
     </ion-content>
 </ion-view>
