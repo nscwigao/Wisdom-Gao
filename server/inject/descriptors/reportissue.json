@@ -8,10 +8,13 @@
       "control": "select"
     },
     "description": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name='description']",
+      "control": "text"
     },
     "attachment": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name='ufile[]']"
     }
   },
   "connect": []
