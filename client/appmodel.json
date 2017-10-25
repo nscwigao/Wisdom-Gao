@@ -136,6 +136,9 @@
       },
       "SumbitReport": {
         "type": "action"
+      },
+      "cancelReportIssue": {
+        "type": "action"
       }
     }
   }
