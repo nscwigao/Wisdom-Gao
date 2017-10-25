@@ -47,6 +47,10 @@
       "screens": [
         "reportissue"
       ]
+    },
+    {
+      "match": [],
+      "action": "cancelReportIssue"
     }
   ]
 }
