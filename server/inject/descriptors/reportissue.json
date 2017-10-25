@@ -19,8 +19,9 @@
     },
     "IsReportissue": {
       "type": "identifier",
-      "selector": "[name=\"password\"]",
-      "control": "text"
+      "selector": "a",
+      "control": "exists",
+      "selectContains": "Report Issue"
     }
   },
   "connect": []
